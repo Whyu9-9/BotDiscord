@@ -1,5 +1,5 @@
 <html>
-  <h1 style="text-align:center;">Integrasi Dua Database</h1>
+  <h1 style="text-align:center;">Bot Discord</h1>
 <body>
 <table>
 <tr>
